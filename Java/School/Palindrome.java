@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-class harjoitus11
+class Palindrome
 {
 	public static void main(String[] args)
 	{
