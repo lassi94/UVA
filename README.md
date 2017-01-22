@@ -1,1 +1,1 @@
-Java projects
+School stuff - mostly Java projects
