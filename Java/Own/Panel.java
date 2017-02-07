@@ -30,8 +30,6 @@ public class Panel extends JPanel implements KeyListener, Runnable {
 	private final int koko = 10;
 	Variables p,apple;
 	ArrayList<Variables> k;
-	private int level;
-	private boolean go;
 	//liike
 	private int kx,ky;
 	//key input
