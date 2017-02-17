@@ -1,0 +1,10 @@
+package Luento10;
+
+public class KiloMetriMuunnin {
+
+	public static void main(String[] args) {
+		
+		Ikkuna2 k = new Ikkuna2();
+	}
+
+}
